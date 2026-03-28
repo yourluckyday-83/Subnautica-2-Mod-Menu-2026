@@ -1,4 +1,4 @@
-**Subnautica 2 Mod Menu 2026 – Working After March 19 Patch – God Mode · Infinite Resources · No Oxygen Drain**
+# Subnautica 2 Mod Menu 2026 
 
 I’ve been testing and documenting external tools for **Subnautica 2** since January 2026 in its pre-early access builds, and this **Mod Menu** has stayed remarkably stable through recent development updates. The March 19, 2026 patch (part of ongoing pre-Early Access preparations ahead of the planned May 2026 launch) included minor stability improvements, backend optimizations, and small adjustments to resource spawning and environmental systems, with no new anti-cheat or memory protection layers introduced. As a result, this external read-only **Mod Menu** continues to function cleanly in solo and private sessions as of my March 21 testing.
 

